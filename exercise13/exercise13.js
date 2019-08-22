@@ -1,4 +1,4 @@
-// source https://repl.it/@eksa/Logic-Challenge-X-dan-O
+
 // gelap bang
 function xo(str) {
   var o = 0 
