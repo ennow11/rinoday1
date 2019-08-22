@@ -1,4 +1,4 @@
-// source https://repl.it/@mevinyanuar/Konversi-Menit
+
 // gelap bang
 function konversiMenit(menit) {
     // you can only write your code here!
