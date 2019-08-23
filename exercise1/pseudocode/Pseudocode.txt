@@ -1,12 +1,37 @@
-1.Newton Second Law
-var mass equals 600 kg
-var accerelation 2m/s2
-CALCULATE = mass equals * accerelation
-console.log(CALCULATE)
+1.NEWTON SECOND LAW
+VALUE 'ΣF' with any value
+VALUE 'm' = 600
+VALUE 'a' = 2
+
+CALCULATE 'm' times 'a'
+VALUE 'ΣF' value with CALCULATION RESULT
+
+DISPLAY 'ΣF'
+END
 
  2.tahun kabisat
-INPUT year
-IF year MOD 4 equals 0 then
-IF year MOD 100 equals not zero OR year MOD 100 equals 0 AND year MOD 400 equals
+READ YEAR = 29 February
+YEAR INPUT = February 29 means that the year is a leap year
 
-3.
+IF If the year runs out of division of 4 and does not run out of division of 100
+OR
+IF If the year runs out of division, it runs out of 100 and runs out of distribution
+END
+
+3.Laundry Day
+START
+INPUT clothes to be washed = 20
+IF all clothes have entered the washing machine will light up
+COUNT the number of clothes that enter the washing machine
+PRINT out the number of clothes = 20
+END
+
+4.Periksa Kuku
+START
+INPUT students who will check their nails = 40
+IF the teacher will punish if you find a student with long nails
+OR
+IF the teacher will praise if you find a short-nailed student
+COUNT students who have short nails
+PRINT students who are praised
+END
